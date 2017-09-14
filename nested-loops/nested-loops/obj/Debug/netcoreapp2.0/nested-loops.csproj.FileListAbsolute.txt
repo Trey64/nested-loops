@@ -1,0 +1,11 @@
+C:\Users\Tom\source\repos\nested-loops\nested-loops\nested-loops\bin\Debug\netcoreapp2.0\nested-loops.deps.json
+C:\Users\Tom\source\repos\nested-loops\nested-loops\nested-loops\bin\Debug\netcoreapp2.0\nested-loops.runtimeconfig.json
+C:\Users\Tom\source\repos\nested-loops\nested-loops\nested-loops\bin\Debug\netcoreapp2.0\nested-loops.runtimeconfig.dev.json
+C:\Users\Tom\source\repos\nested-loops\nested-loops\nested-loops\bin\Debug\netcoreapp2.0\nested-loops.dll
+C:\Users\Tom\source\repos\nested-loops\nested-loops\nested-loops\bin\Debug\netcoreapp2.0\nested-loops.pdb
+C:\Users\Tom\source\repos\nested-loops\nested-loops\nested-loops\obj\Debug\netcoreapp2.0\nested-loops.csprojResolveAssemblyReference.cache
+C:\Users\Tom\source\repos\nested-loops\nested-loops\nested-loops\obj\Debug\netcoreapp2.0\nested-loops.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\nested-loops\nested-loops\nested-loops\obj\Debug\netcoreapp2.0\nested-loops.AssemblyInfoInputs.cache
+C:\Users\Tom\source\repos\nested-loops\nested-loops\nested-loops\obj\Debug\netcoreapp2.0\nested-loops.AssemblyInfo.cs
+C:\Users\Tom\source\repos\nested-loops\nested-loops\nested-loops\obj\Debug\netcoreapp2.0\nested-loops.dll
+C:\Users\Tom\source\repos\nested-loops\nested-loops\nested-loops\obj\Debug\netcoreapp2.0\nested-loops.pdb
